@@ -1,0 +1,1 @@
+var json_PASARWAGEPURWOKERTO_14 = {"type":"FeatureCollection","name":"PASARWAGEPURWOKERTO_14","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":null,"nama":"PASAR WAGE PUROKERTO"},"geometry":{"type":"Point","coordinates":[109.249977149460889,-7.42678376784909]}}]}

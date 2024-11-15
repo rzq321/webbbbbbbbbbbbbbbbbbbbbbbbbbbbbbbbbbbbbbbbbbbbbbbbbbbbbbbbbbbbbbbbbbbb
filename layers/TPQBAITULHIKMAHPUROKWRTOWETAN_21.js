@@ -1,0 +1,1 @@
+var json_TPQBAITULHIKMAHPUROKWRTOWETAN_21 = {"type":"FeatureCollection","name":"TPQBAITULHIKMAHPUROKWRTOWETAN_21","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":null,"nama":"TPQ BAITUL HIKMAH PUROKWRTO WETAN"},"geometry":{"type":"Point","coordinates":[109.254380796080895,-7.42654956438911]}}]}
